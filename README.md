@@ -35,8 +35,8 @@
 
 ## 2. 기능 화면
 > - 관리자-교사조회<br>
-> ![tejo1](./images/main1.png)
-> ![tejo2](./images/main2.png)
+> ![tejo1](./images/tejo1.png)
+> ![tejo2](./images/tejo2.png)
 > - 관리자-신규 과목 등록<br>
 > ![gm1](./images/gm1.png)
 > ![gm2](./images/gm2.png)
@@ -70,7 +70,7 @@
 >> - 데이터 통합 및 디버깅
 >> - PPT 작성<br>
 
-> <strong>8월 18일</strong><br>
+> <strong>9월 18일</strong><br>
 >> - 발표 <br>
   
   # 핵심 트러블 슈팅
