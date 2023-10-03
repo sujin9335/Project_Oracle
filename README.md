@@ -6,7 +6,7 @@
 
 # 2. 🛠개발 환경
  
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/OracleDeveloper-007396?style=for-the-badge&logo=devlop&logoColor=white"> <img src="https://img.shields.io/badge/eXERD-C28F2C?style=for-the-badge&logo=exerd&logoColor=white"> <img src="https://img.shields.io/badge/window-0078D4?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/macOs-000000?style=for-the-badge&logo=macos&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/OracleDeveloper-007396?style=for-the-badge&logo=devlop&logoColor=white"> <img src="https://img.shields.io/badge/eXERD-C28F2C?style=for-the-badge&logo=exerd&logoColor=white"> <img src="https://img.shields.io/badge/window-0078D4?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/mac-000000?style=for-the-badge&logo=macos&logoColor=white">
 
 
 # 3. 👯‍♂️역할 분담
