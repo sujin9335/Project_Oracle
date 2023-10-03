@@ -77,6 +77,8 @@
 <details>
 <summary> <strong>1. 더미 데이터 작성과 유효성 검사가 오래 걸렸다.</strong> </summary>
   - 출결 더미 데이터가 약 7만개 였고 그 데이터들을 insert문으로 바꾸는데 시간이 오래 걸렸다.<br>하지만 자바 파일 입출력으로 한번 코드를 짜 놓아 시간이 그나마 단축 되었다.<br><br>
+</details>
+<details>
 <summary> <strong>2. 익숙치 않은 PL/SQL에서 시간이 오래 걸렸다.</strong> </summary>
   - PL/SQL이 자바와 비교하자면 변수,메소드,조건문등을 구현할 수 있는 코드 인데 사용법이 익숙치 않아 CRUD만 하는데도 오래 걸렸다<br><br>
 </details>
